@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/phpcommish/!svn/ver/3/head/edit
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/phpcommish/!svn/ver/3/head/edit/index.php
+END
+sql_connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/phpcommish/!svn/ver/3/head/edit/sql_connect.php
+END
+library.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/phpcommish/!svn/ver/3/head/edit/library.inc.php
+END
+edit_team.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/phpcommish/!svn/ver/3/head/edit/edit_team.php
+END
+edit_league.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/phpcommish/!svn/ver/3/head/edit/edit_league.php
+END
+edit_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/phpcommish/!svn/ver/3/head/edit/edit_users.php
+END
+header_edit.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/phpcommish/!svn/ver/3/head/edit/header_edit.inc.php
+END
+header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/phpcommish/!svn/ver/3/head/edit/header.inc.php
+END

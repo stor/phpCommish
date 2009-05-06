@@ -1,0 +1,36 @@
+phpCommish v.2 for lrb5
+
+phpCommish for the Living Rulebook 5 rules
+
+What is phpCommish ?
+     A simple web-based management system for BloodBowl leagues using mySql and php.
+
+Goodness:
+
+    * Manage multiple leagues, during multiple seasons in multiple divisions
+    * Easy display of the leagues matches and teams
+    * Display results in table and list per division
+    * Based on Living Rulebook 5
+    * Easy updating of results in the league
+    * Tracks td's, cas's, winnings, gate and comments per game
+    * Update team player name, stats, skills, niggling and miss game, spp's
+    * Update team name, coach, rerolls, fanfactor, assistant coaches, cheerleaders, apothecary, treasury
+    * Automatic calculation of player values and team value
+    * Export roster for use in other BloodBowl-apps
+	  (SkiJunkies JavaBloodBowl, PBeM tool - NB! I have not tested the rosters in these applications)
+    * Can also be used as a team-editor to manage your BloodBowl-team
+
+Point system:
+
+    * 3 points win
+    * 1 point draw
+    * 0 points loss
+    * If points are equal, td-difference decides who's better
+    * If points and td-difference are equal, cas-difference decides who's better
+
+Strangeness:
+	* When you mistakenly rise a players stats, and lower it again, the player
+	  value is not lowered. This is according to rules, because the player value
+	  does not decrease, even if you get a SI-result of decreased stat. If you
+	  do this, you have to delete the player and add it back in adjusting the
+	  stats and skills.
